@@ -1,0 +1,23 @@
+{
+  "variables" : [ {
+    "name" : "DB_NAME_ST",
+    "value" : "staging_ambical",
+    "description" : ""
+  }, {
+    "name" : "DB_HOST_ST",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "DB_PORT_ST",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "DB_USER_ST",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "DB_PW_ST",
+    "value" : "CHANGE_ME",
+    "description" : ""
+  } ]
+}

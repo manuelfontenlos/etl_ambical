@@ -1,0 +1,19 @@
+# Datos reales de AMBICAL — NO incluir en el repositorio
+data/real/
+*.csv.real
+*_real.*
+
+# Datos sintéticos sí se incluyen
+!data/synthetic/
+
+# Credenciales reales (usar las de configuracion/ como plantilla)
+# Las contraseñas en configuracion/*.json ya son placeholders (CHANGE_ME)
+
+# Archivos temporales de Apache Hop
+*.log
+logs/
+audit/
+
+# OS
+.DS_Store
+Thumbs.db

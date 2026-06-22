@@ -1,0 +1,23 @@
+{
+  "variables" : [ {
+    "name" : "DB_HOST_DM",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "DB_PORT_DM",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "DB_NAME_DM",
+    "value" : "datamart_ambical",
+    "description" : ""
+  }, {
+    "name" : "DB_USER_DM",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "DB_PW_DM",
+    "value" : "CHANGE_ME",
+    "description" : ""
+  } ]
+}
